@@ -1,0 +1,7 @@
+# vi/vim in git-bash
+
+In this subdir i will complete the git homewor --in a near future, i guess--
+
+$ pwd
+/__code/atralice/Curso.Prep.Henry/01-Git/homework
+
